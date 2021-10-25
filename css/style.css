@@ -1,0 +1,17 @@
+.image-slider__image {
+    text-align: center;
+}
+img {
+    max-width: 100%;
+}
+.wrapper {
+    width: 1024px;
+    padding: 0 15px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.swiper-pagination-bullet {
+    width: 10px;
+    height: 10px;
+}
